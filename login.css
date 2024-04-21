@@ -116,9 +116,9 @@ h4{
   font-size: 13px;
   text-decoration: underline;
 }
-a{
+h5{
   font-size: 13px;
-  color: rgb(240, 163, 163);
+  color: rgb(133, 193, 248);
   text-decoration: underline;
   margin-left: 8px ;
 }
@@ -163,7 +163,7 @@ hr{
   color: rgb(26, 22, 22);
   font-weight: 900;
   padding-top: 50px;
-  padding-bottom: 30px;
+  padding-bottom: 50px;
   padding-right: 9px;
   display:inline-block;
 }
@@ -271,9 +271,9 @@ h4{
   font-size: 13px;
   text-decoration: underline;
 }
-h5{
+a{
   font-size: 13px;
-  color: rgb(133, 193, 248);
+  color: rgb(240, 163, 163);
   text-decoration: underline;
   margin-left: 8px ;
 }
@@ -330,7 +330,6 @@ svg{
   flex-direction: column;
   justify-content: center;
   padding: 40px;
-  display: none;
 }
 .container{
   background-color: white;
